@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/random-image",
+      "dest": "/api/random-image.js"
+    }
+  ]
+}
