@@ -1,5 +1,5 @@
 # println!("art{}", 3);
-<img src="https://github.com/user-attachments/assets/41600f5a-7b02-43e6-9438-fd5d1727daa4" alt="drawing" width="500"/>
+![random banner](https://vercel-img-api.vercel.app/api/random-image)
 
 [![My Skills](https://skillicons.dev/icons?i=rust,python,bun,vscode)](https://skillicons.dev)
 
