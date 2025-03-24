@@ -1,5 +1,5 @@
 # println!("art{}", 3);
-![Random Image](https://vercel-img-api.vercel.app/api/random-image)
+![Random Image](https://kappa.lol/36TrNe)
 
 [![My Skills](https://skillicons.dev/icons?i=rust,python,bun,vscode)](https://skillicons.dev)
 
